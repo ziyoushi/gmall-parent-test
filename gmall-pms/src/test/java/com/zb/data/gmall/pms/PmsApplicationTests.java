@@ -1,4 +1,4 @@
-package com.zb.data.gmall.gmallpms;
+package com.zb.data.gmall.pms;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;
@@ -7,7 +7,7 @@ import org.springframework.test.context.junit4.SpringRunner;
 
 @RunWith(SpringRunner.class)
 @SpringBootTest
-public class GmallPmsApplicationTests {
+public class PmsApplicationTests {
 
     @Test
     public void contextLoads() {

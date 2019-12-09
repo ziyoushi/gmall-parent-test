@@ -1,13 +1,13 @@
-package com.zb.data.gmall.gmallums;
+package com.zb.data.gmall.oms;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class GmallUmsApplication {
+public class OmsApplication {
 
     public static void main(String[] args) {
-        SpringApplication.run(GmallUmsApplication.class, args);
+        SpringApplication.run(OmsApplication.class, args);
     }
 
 }

@@ -1,10 +1,10 @@
-package com.zb.data.gmall.sms;
+package com.zb.data.gmall.oms;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class GmallSmsApplicationTests {
+class OmsApplicationTests {
 
     @Test
     void contextLoads() {
